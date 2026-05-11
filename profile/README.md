@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Zenitech — Software at its peak" width="100%" />
-
-
+<img src="./blob/main/assets/banner.svg" alt="Zenitech — Software at its peak" width="100%" />
 
 [![Website](https://img.shields.io/badge/web-crzenitech.com-00E5FF?style=for-the-badge&labelColor=0A0E1A)](https://crzenitech.com)
 [![Location](https://img.shields.io/badge/based_in-Costa_Rica-B026FF?style=for-the-badge&labelColor=0A0E1A)](https://crzenitech.com)
